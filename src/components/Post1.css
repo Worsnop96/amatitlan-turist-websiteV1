@@ -1,0 +1,26 @@
+.post {
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid ;
+    padding-bottom: 10px;
+  }
+  
+  .post__body {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .post__headerDescription {
+    margin-bottom: 10px;
+    font-size: 15px;
+  }
+  
+  .post__headerText > h3 {
+    font-size: 15px;
+    margin-bottom: 5px;
+  }
+  
+  .post__avatar {
+    padding: 20px;
+  }
+  
